@@ -11,6 +11,15 @@ Dans cet atelier, vous allez mettre en place une infrastructure cloud en utilisa
 - Gérer des environnements de déploiement (par exemple, développement et production).
 - Configurer un stockage sécurisé pour l'état Terraform.
 
+#### Terraform - Docker Tutorials :
+
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started/install-cli
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-build
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-change
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-destroy
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-variables
+https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-outputs
+
 #### **Énoncé du Projet :**
 
 1. **Structure du Projet Terraform** :
