@@ -1,5 +1,7 @@
 # EPSI---IaC
 
+![image](https://github.com/user-attachments/assets/5501488a-b9be-4a02-89a0-c3e251bc2916)
+
 #### **Contexte :**
 Dans cet atelier, vous allez mettre en place une infrastructure cloud en utilisant **Terraform**. L'objectif est de déployer une architecture web sur **Microsoft Azure** (ou sur Docker si Azure n'est pas disponible). L'infrastructure sera composée de deux serveurs web, un serveur de base de données, un réseau virtuel (VNet), trois sous-réseaux, un load balancer pour équilibrer la charge entre les serveurs web, et un storage account pour stocker l'état de Terraform (tfstate). Vous allez organiser ce projet Terraform en utilisant des modules pour favoriser la réutilisabilité et la maintenabilité de votre code.
 
